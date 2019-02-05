@@ -1,0 +1,13 @@
+REDIRECT AFTER NEW TASK IS STATIC SO BAD
+SECURYTY THROW -> CATCH
+echo '<div class="p-3 mb-2 bg-dark text-white">';
+                    echo $quest[1] . '<br>';
+                    echo '</div>';
+
+
+
+                    echo '<form action="delete.php" method="get">';
+                                    echo '<button type="submit" class="btn btn-dark btn-lg btn-block">';
+                                    echo $quest[1];
+                                    echo '</button>';
+                                    echo '</form> <br>';
